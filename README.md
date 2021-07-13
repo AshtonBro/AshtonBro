@@ -1,16 +1,28 @@
-### Hi there 👋
-
-<!--
-**AshtonBro/AshtonBro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">
+  Hello there! This is AshtonBro.👋
+</h2>
+<p align="left">  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=AshtonBro&show_icons=true&theme=gotham">
+</p>
+<p align="left">
+  <a href="https://github.com/AshtonBro">
+    <img src="https://badges.pufler.dev/visits/AshtonBro/AshtonBro?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/AshtonBro?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/AshtonBro?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/AshtonBro">
+    <img src="https://img.shields.io/github/followers/AshtonBro?style=social">
+  </a>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/C Sharp -green"> 
+  <img src="https://img.shields.io/badge/ASP.NET -lightblue"> 
+  <img src="https://img.shields.io/badge/HTML5 -orange"> 
+  <img src="https://img.shields.io/badge/CSS3 -blue"> 
+  <img src="https://img.shields.io/badge/Javascript -yellow"> 
+  <img src="https://img.shields.io/badge/Git -grey"> 
+</p>
+<hr>
