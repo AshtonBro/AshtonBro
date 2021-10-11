@@ -4,6 +4,9 @@
 <p align="left">  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=AshtonBro&show_icons=true&theme=gotham">
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshtonBro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
   <a href="https://github.com/AshtonBro">
     <img src="https://badges.pufler.dev/visits/AshtonBro/AshtonBro?style=flat-square&color=black&logo=github">
