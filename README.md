@@ -9,14 +9,6 @@
 
 <p align="left">
   <a href="https://github.com/AshtonBro">
-    <img src="https://badges.pufler.dev/visits/AshtonBro/AshtonBro?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/AshtonBro?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/AshtonBro?style=flat-square&color=black&logo=github">
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/AshtonBro">
     <img src="https://img.shields.io/github/followers/AshtonBro?style=social">
   </a>
 </p>
