@@ -5,8 +5,6 @@
   <img align=center src="https://github-readme-stats.vercel.app/api?username=AshtonBro&show_icons=true&theme=tokyonight">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshtonBro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left">
   <a href="https://github.com/AshtonBro">
     <img src="https://img.shields.io/github/followers/AshtonBro?style=social">
